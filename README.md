@@ -38,9 +38,8 @@ The workflow includes:
    - Score distribution by predicted grade
 
 ## Data
-- The dataset `Loan_club_group3.csv` contains Lending Club loans with financial, demographic, and credit history information.  
-- **Note:** Data file is not included due to confidentiality; please provide your own copy.  
-
+- The dataset `Loan_club_group3.csv` contains Lending Club loans with financial, demographic, and credit history information.
+- 
 ## Requirements
 R packages used in the project:
 
